@@ -1,4 +1,4 @@
 {
     "url":"mongodb://mcvuuser:Michael1@ds052827.mongolab.com:52827/mcvudb",
-    "collection":"connornightscout"
+    "collection":"connornightscout"  
 }
